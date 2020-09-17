@@ -1,6 +1,6 @@
 <GAD701_Arado_Ar81.model>
 	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/aircraft/GAD701_Arado_Ar81_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/aircraft/lods/GAD701_Arado_Ar81_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/aircraft/GAD701_Arado_Ar81	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

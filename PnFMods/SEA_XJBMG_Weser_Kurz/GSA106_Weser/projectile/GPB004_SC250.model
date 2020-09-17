@@ -1,6 +1,6 @@
 <GPB004_SC250.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/GPB004_SC250_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/lods/GPB004_SC250_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/GPB004_SC250	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

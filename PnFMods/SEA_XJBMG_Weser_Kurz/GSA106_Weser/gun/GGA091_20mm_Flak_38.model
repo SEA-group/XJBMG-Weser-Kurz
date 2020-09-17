@@ -1,6 +1,6 @@
 <GGA091_20mm_Flak_38.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/gun/GGA091_20mm_Flak_38_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/gun/lods/GGA091_20mm_Flak_38_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/gun/GGA091_20mm_Flak_38	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

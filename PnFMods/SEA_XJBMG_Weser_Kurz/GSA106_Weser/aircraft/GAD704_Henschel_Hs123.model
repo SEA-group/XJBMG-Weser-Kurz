@@ -1,6 +1,6 @@
 <GAD704_Henschel_Hs123.model>
 	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/aircraft/GAD704_Henschel_Hs123_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/aircraft/lods/GAD704_Henschel_Hs123_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/aircraft/GAD704_Henschel_Hs123	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

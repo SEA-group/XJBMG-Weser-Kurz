@@ -844,42 +844,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_GM001_Paravane	</identifier>
-				<transform>
-					<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.0000 -1.0000 0.0000	</row1>
-					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.0575 0.4125 4.7257 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM001_Paravane_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.0000 -1.0000 0.0000	</row1>
-					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.3577 0.3998 4.7257 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM001_Paravane_INDEX_2	</identifier>
-				<transform>
-					<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.0000 -1.0000 0.0000	</row1>
-					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.4530 0.3998 4.7257 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM001_Paravane_INDEX_3	</identifier>
-				<transform>
-					<row0>	0.2588 -0.9659 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.0000 -1.0000 0.0000	</row1>
-					<row2>	0.9659 0.2588 0.0000 0.0000	</row2>
-					<row3>	0.1130 0.4047 4.7257 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_GM003_Reels_1	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>

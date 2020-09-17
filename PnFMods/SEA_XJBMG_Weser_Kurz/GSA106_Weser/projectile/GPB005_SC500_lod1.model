@@ -1,7 +1,0 @@
-<GPB005_SC500_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/GPB005_SC500_lod2	</parent>
-	<extent>	6.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/GPB005_SC500_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</GPB005_SC500_lod1.model>

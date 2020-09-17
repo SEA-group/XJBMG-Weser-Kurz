@@ -1,6 +1,6 @@
 <GPR003_RZ73.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/GPR003_RZ73_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/lods/GPR003_RZ73_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/GPR003_RZ73	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
