@@ -27,10 +27,19 @@
 			<node>
 				<identifier>	HP_FX_Fire_1	</identifier>
 				<transform>
+					<row0>	0.9900 0.0000 0.1414 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.1414 0.0000 0.9900 0.0000	</row2>
+					<row3>	0.2655 0.7803 4.4213 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_1_side_1	</identifier>
+				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.8200 5.4140 1.0000	</row3>
+					<row3>	-0.5905 0.7627 5.8559 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

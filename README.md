@@ -1,4 +1,4 @@
-﻿# Weser: Kurz
+﻿# Weser: Conning tower removal
 
 Model modification for tier 6 aircraft carrier **Weser**. 
 
