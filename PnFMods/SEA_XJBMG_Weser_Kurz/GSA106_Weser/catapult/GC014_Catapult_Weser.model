@@ -1,7 +1,6 @@
 <GC014_Catapult_Weser.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/catapult/lods/GC014_Catapult_Weser_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/catapult/GC014_Catapult_Weser	</nodefullVisual>
+	<visual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/catapult/GC014_Catapult_Weser.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GC014_Catapult_Weser.model>

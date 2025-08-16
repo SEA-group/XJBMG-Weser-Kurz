@@ -1,7 +1,6 @@
 <GSA003_Weser_1943_Stern.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/ship/lods/GSA003_Weser_1943_Stern_lod1	</parent>
-	<extent>	11.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/ship/GSA003_Weser_1943_Stern	</nodefullVisual>
+	<visual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/ship/GSA003_Weser_1943_Stern.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GSA003_Weser_1943_Stern.model>

@@ -1,7 +1,6 @@
 <GPT007_F5b.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/lods/GPT007_F5b_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/GPT007_F5b	</nodefullVisual>
+	<visual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/projectile/GPT007_F5b.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GPT007_F5b.model>

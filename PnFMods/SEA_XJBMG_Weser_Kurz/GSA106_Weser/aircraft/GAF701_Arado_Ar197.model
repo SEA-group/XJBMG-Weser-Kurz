@@ -1,7 +1,6 @@
 <GAF701_Arado_Ar197.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/aircraft/lods/GAF701_Arado_Ar197_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/aircraft/GAF701_Arado_Ar197	</nodefullVisual>
+	<visual>	PnFMods/SEA_XJBMG_Weser_Kurz/GSA106_Weser/aircraft/GAF701_Arado_Ar197.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GAF701_Arado_Ar197.model>
